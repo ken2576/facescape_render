@@ -1,5 +1,5 @@
 # FaceScape Rendering Script
-Blender rendering script for FaceScape dataset accompanying paper ["NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting"](https://github.com/ken2576/nelf)
+Blender rendering script for [FaceScape dataset](https://facescape.nju.edu.cn/) accompanying paper ["NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting"](https://github.com/ken2576/nelf)
 
 
 ### Requirements
