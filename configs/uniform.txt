@@ -1,0 +1,3 @@
+model_folder = [path_to_model_folder]
+env_folder = [path_to_envmap_folder]
+out_folder = [path_to_output_folder]
